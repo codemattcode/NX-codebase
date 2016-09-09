@@ -1,6 +1,7 @@
 {
   "name": "nx-codebase",
-  "version": "1.0",
+  "version": "1.0.0",
+  "description": "",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -19,5 +20,7 @@
     "gulp-nodemon": "^2.0.2",
     "gulp-livereload": "^3.8.0",
     "gulp-plumber": "^1.0.0"
-  }
+  },
+  "author": "codemattcode",
+  "license": "ISC"
 }
