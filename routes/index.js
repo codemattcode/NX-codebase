@@ -5,7 +5,7 @@ var router = express.Router();
 router.get('/', function(req, res) {
   res.render('index', { 
     title: 'Hello World!',
-    message: 'You are so blue, green and beautiful' 
+    message: 'You are so beautiful' 
   });
 
 });
